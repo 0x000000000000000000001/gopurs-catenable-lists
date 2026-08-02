@@ -1,15 +1,1 @@
-package:
-  name: "catenable-lists"
-  dependencies:
-    - control
-    - foldable-traversable
-    - lists
-    - maybe
-    - prelude
-    - tuples
-    - unfoldable
-  test:
-    main: "Test.Main"
-    dependencies:
-      - assert
-      - console
+spago.go.yaml
